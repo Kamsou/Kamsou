@@ -2,7 +2,7 @@
 
 En bref, 
 - Camille Coutens
-- Developer Vuejs — Nuxtjs — Ionic — Node
-- Intérêt pour l'UI, l'UX, la photographie etc.
+- Expert Developer Vuejs — Nuxtjs 
+- Love design and 3D
 
-_(Si tu es cavalier(e), recherche Augalo sur ton Play/Apple Store!)_
+https://augalo.com
